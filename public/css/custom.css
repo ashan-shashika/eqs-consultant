@@ -1,0 +1,29 @@
+#top-nav-bar{
+  background-color:#152029;
+  height: 70px;
+  color:white;
+  font-size:14px;
+  padding-top: 25px;
+}
+
+.span-information{
+  color:#f39c12;
+  font-size: 14px;
+  padding:0px 5px;
+}
+.span-share{
+  color:white;
+  font-size: 20px !important;
+  padding:0px 10px;
+}
+.navbar-inverse .navbar-nav>li>a{
+  padding: 40px 17px;
+  color: #06223e;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 20px;
+  font-size: 16px
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+  color: #f39c12;
+}
