@@ -116,6 +116,7 @@
   border-radius: 4px;
 }
 /*contact us page*/
+@media (min-width: 992px) {
 .col-md-offset-11 {
   margin-left: 91.66666667%;
 }
@@ -152,6 +153,7 @@
 .col-md-offset-0 {
   margin-left: 0;
 }
+}
 /*contact us page icons*/
 #contact-icons{
   color:#51cbce;
@@ -180,9 +182,7 @@
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
-  .col-sm-offset-3 {
-    margin-left: 25%;
-  }
+
 }
 @media (max-width: 767px) {
   .section-numbers .card {
@@ -192,4 +192,9 @@
   margin-bottom: 30px;
   border-radius: 10px;
 }
+}
+@media (min-width: 576px){
+  .col-sm-offset-3 {
+    margin-left: 25%;
+  }
 }
