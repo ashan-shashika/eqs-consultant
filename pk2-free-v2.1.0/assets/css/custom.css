@@ -179,3 +179,9 @@
 .col-md-offset-0 {
   margin-left: 0;
 }
+/*contact us page icons*/
+#contact-icons{
+  color:#51cbce;
+  margin-top:30px;
+  padding-left:50%;
+}
